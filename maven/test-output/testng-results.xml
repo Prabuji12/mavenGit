@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10551" started-at="2020-02-08T10:25:28Z" finished-at="2020-02-08T10:25:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10551" started-at="2020-02-08T10:25:28Z" finished-at="2020-02-08T10:25:39Z">
+      <class name="com.dxc.maven.test.FlipkartTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.dxc.maven.test.FlipkartTest@42e26948]" name="beforeClass" is-config="true" duration-ms="13512" started-at="2020-02-08T10:25:15Z" finished-at="2020-02-08T10:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="loginFlipkart()[pri:0, instance:com.dxc.maven.test.FlipkartTest@42e26948]" name="loginFlipkart" duration-ms="10449" started-at="2020-02-08T10:25:28Z" finished-at="2020-02-08T10:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFlipkart -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.dxc.maven.test.FlipkartTest@42e26948]" name="afterSuite" is-config="true" duration-ms="1841" started-at="2020-02-08T10:25:39Z" finished-at="2020-02-08T10:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.dxc.maven.test.FlipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
